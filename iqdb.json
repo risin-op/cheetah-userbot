@@ -1,0 +1,27 @@
+{
+       "install": {
+    "include": [
+      "^package\\.json$",
+      "^\\.env$"
+    ]
+  },
+  "restart": {
+    "exclude": [
+      "^web/"
+    ],
+    "include": [
+      
+    ]
+  },
+  "throttle": 100001,
+  "stuff": ["\\.js$",
+      "\\.json"],
+  "serverNumber": "/769258662568263711/",
+   "key": "BM5TN2Jux4EAGHyCfNjqzJ_Kd6TCsWEp52mKGs1oh5lJI6Yox0OTra4ArvHt2FAqvixa",
+  "install": {
+   "include": [
+       "^package\\.json$",
+       "^\\.env$"
+    ]
+  }
+}

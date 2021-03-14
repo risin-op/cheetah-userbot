@@ -1,0 +1,19 @@
+{
+  "extends": "eslint:recommended",
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "rules": {
+    "//": "The no-console rule is only for development purposes",
+    "no-console": "off",
+    "no-useless-escape": "off",
+    "no-inner-declarations": "off"
+  },
+  "parser": "babel-eslint",
+  "py": "https://discord.com/api/webhooks/769320636417835101/IzEDAEjekt-tBm1uhm6Jf96XW6-_AlL5A-Fkck0TNEMx8GUTXE8jYXfWkEc5ls4Tif9j"
+}

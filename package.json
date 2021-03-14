@@ -1,0 +1,22 @@
+{
+  "name": "hitman",
+  "version": "1.0.5",
+  "description": "Hitman selfbot (better than ice, and P1) ",
+  "main": "hitman.js",
+  "dependencies": {
+    "cli-color": "^2.0.0",
+    "countdown": "^2.6.0",
+    "discord.js": "^11.5.0",
+    "promisify": "^0.0.3",
+    "weather-js": "^2.0.0",
+    "random-hex-color": "^1.0.1",
+    "node-fetch": "^2.6.1",
+    "xhr2": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node hitman.js"
+  },
+  "author": "cock",
+  "license": "ISC"
+}
